@@ -6,7 +6,6 @@ Features:
       Support 2 Language TH ENG🏳
       Support Custom Chat Execute Command💾
   ```
-  <hr>
   <br>
 API:
   ```php
