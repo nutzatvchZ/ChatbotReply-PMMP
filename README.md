@@ -2,8 +2,8 @@
 <hr>
 Chat bots interact with players.
 #Features:
-  `Custom Reply Chat`
-  `Support 2 Language TH ENG`
-  `Support Custom Chat Execute Command`
+  `Custom Reply Chat`<br>
+  `Support 2 Language TH ENG`<br>
+  `Support Custom Chat Execute Command`<br>
 <hr>
 #API:
