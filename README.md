@@ -7,6 +7,7 @@ Features:
       Support Custom Chat Execute Command💾
   ```
   <hr>
+  <br>
 API:
   ```php
   /*** Var $chatbot Chatbot **/
