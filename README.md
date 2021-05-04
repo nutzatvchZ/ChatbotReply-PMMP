@@ -1,12 +1,13 @@
 # ChatbotReply-PMMP
 Chat bots interact with players.<br>
-#Features:
+Features:
   ```
            Custom Reply Chat🤩
       Support 2 Language TH ENG🏳
       Support Custom Chat Execute Command💾
   ```
-#API:
+  <hr>
+API:
   ```php
   /*** Var $chatbot Chatbot **/
   $chatbot = ChatbotLoader::getInstance();
