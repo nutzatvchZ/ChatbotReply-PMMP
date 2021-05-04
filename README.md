@@ -2,7 +2,7 @@
 <hr>
 Chat bots interact with players.
 #Features:
-  ```
+  ```python
   Custom Reply Chat
   Support 2 Language TH ENG
   Support Custom Chat Execute Command
